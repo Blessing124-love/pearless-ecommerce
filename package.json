@@ -1,6 +1,7 @@
 {
   "name": "pearless-ecommerce",
   "version": "1.0.0",
+  "description": "PEARLESS - Premium Apparel Brand E-commerce Website. Grown Not Given. Trust the Process.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,6 +16,14 @@
     "fashion",
     "streetwear",
     "luxury",
-    "pearless"
-  ]
+    "pearless",
+    "premium-apparel"
+  ],
+  "author": "Blessing Masedi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blessing124-love/pearless-ecommerce"
+  },
+  "homepage": "https://github.com/Blessing124-love/pearless-ecommerce"
 }
